@@ -1,0 +1,16 @@
+{
+  "appId": "com.kavya.aistory",
+  "appName": "Kavya AI Stories",
+  "webDir": "dist",
+  "version": "1.1.0",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}

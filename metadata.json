@@ -1,0 +1,6 @@
+{
+  "name": "kavya AI STORY - 50 GIRLS REAL AI",
+  "description": "Interactive story chat with 50 unique REAL AI girls featuring dynamic trust system, mood, and Hinglish conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
